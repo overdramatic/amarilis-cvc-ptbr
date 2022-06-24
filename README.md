@@ -1,4 +1,4 @@
-# M01BR - Amarilis
+# CVC M01BR - Amarilis
 Amarilis é um banco de voz masculino gravado utilizando a lista [CVC PT-BR](https://github.com/overdramatic/CVC-PTBR-Reclist)<br>
 
 ## Sobre
